@@ -121,7 +121,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Khant Zwe Naing**
 
 - Email: issaciscoding@gmail.com
-- Phone: 07304152699
 - Location: Hatfield, United Kingdom
 - Portfolio: [Portfolio Website]
 
